@@ -1,4 +1,4 @@
-  <div style="max-width: 100%; margin: 0 auto; text-align: center;"><img src="https://github.com/MARIYAPPANS/MARIYAPPANS/assets/114395182/7e4cbb7d-74d4-43ae-acc0-47c0f256a452" alt="Giphy" style="width: 100%; height: 100%; object-fit: cover;"></div>
+  <div style="max-width: 100%; margin: 0 auto; text-align: center;" align="center"><img src="https://github.com/MARIYAPPANS/MARIYAPPANS/assets/114395182/7e4cbb7d-74d4-43ae-acc0-47c0f256a452" alt="Giphy" style="width: auto; height: auto; object-fit: cover;"></div>
 
 <h1 align="center">Hi 👋, I'm Mariyappan S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
