@@ -1,6 +1,7 @@
-
 <!-- Header Section -->
-<div style="max-width: 100%; margin: 0 auto; text-align: center;" align="center"><img src="https://github.com/MARIYAPPANS/MARIYAPPANS/assets/114395182/7e4cbb7d-74d4-43ae-acc0-47c0f256a452" alt="Giphy" style="width: auto; height: auto; object-fit: cover;"></div>
+<div style="max-width: 100%; margin: 0 auto; text-align: center;" align="center">
+  <img src="https://github.com/MARIYAPPANS/MARIYAPPANS/assets/114395182/7e4cbb7d-74d4-43ae-acc0-47c0f256a452" alt="Giphy" style="width: auto; height: auto; object-fit: cover;">
+</div>
 
 <h1 align="center">Hi there, I'm Mariyappan S 👋</h1>
 <h3 align="center">Passionate Frontend Developer | India</h3>
@@ -9,7 +10,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mariyappans&label=👁️%20Profile%20Views&color=blueviolet" alt="Profile Views">
 </p>
-
 
 <!-- About Me Section -->
 <p align="center">
@@ -33,7 +33,6 @@
   </a>
 </p>
 
-
 <!-- Current Project Section -->
 <h3 align="center">Currently Building:</h3>
 <p align="center">
@@ -54,9 +53,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40">
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="40">
-  </a>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40">
   </a>
@@ -76,7 +72,6 @@
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40">
   </a>
 </p>
-
 
 <!-- GitHub Stats Section -->
 <p align="center">
