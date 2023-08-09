@@ -63,35 +63,37 @@
   <div style="background-color: #292d3e; padding: 10px; border-radius: 10px; margin-bottom: 20px;">
     <h3 style="color: #ffffff; margin-bottom: 10px;">Frontend Technologies</h3>
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40">
-      </a>
-      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40">
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40">
-      </a>
-    </div>
+     <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.svgrepo.com/show/409142/html5.svg" alt="HTML5" height="40">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.svgrepo.com/show/478223/css.svg" alt="CSS3" height="40">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.svgrepo.com/show/508924/js02.svg" alt="JavaScript" height="40">
+  </a>
+  
+    
   </div>
   
   <!-- Programming Languages -->
   <div style="background-color: #292d3e; padding: 10px; border-radius: 10px; margin-bottom: 20px;">
     <h3 style="color: #ffffff; margin-bottom: 10px;">Programming Languages</h3>
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-      <a href="https://www.learn-c.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40">
-      </a>
-      <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="40">
-      </a>
-      <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40">
-      </a>
-      <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40">
-      </a>
-    </div>
+     <a href="https://www.learn-c.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.svgrepo.com/show/339041/c-language.svg" alt="C" height="40">
+</a>
+<a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.svgrepo.com/show/508737/captivate.svg" alt="C++" height="40">
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.svgrepo.com/show/370215/language-java-text.svg" alt="Java" height="40">
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.svgrepo.com/show/503402/language-python.svg" alt="Python" height="40">
+</a>
+
+    
   </div>
   
   <!-- Databases -->
@@ -99,12 +101,13 @@
     <h3 style="color: #ffffff; margin-bottom: 10px;">Databases</h3>
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
       <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="40">
-      </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40">
-      </a>
-    </div>
+  <img src="https://www.svgrepo.com/show/368694/firebase.svg" alt="Firebase" height="40">
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.svgrepo.com/show/473729/mongodb.svg" alt="MongoDB" height="40">
+</a>
+
+    
   </div>
 </div>
 
