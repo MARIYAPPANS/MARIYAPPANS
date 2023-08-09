@@ -83,6 +83,10 @@
 </p>
 
 <!-- GitHub Streak Stats Section -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyappans&theme=radical" alt="GitHub Streak Stats">
-</p>
+<!-- GitHub Streak Stats Section -->
+<div align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h2 style="color: #ffffff; margin-bottom: 10px;">GitHub Streak</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyappans&theme=highcontrast" alt="GitHub Streak Stats">
+  <p style="margin-top: 10px; font-size: 14px; color: #cccccc;">Keep up the great work!</p>
+</div>
+
