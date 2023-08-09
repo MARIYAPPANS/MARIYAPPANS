@@ -1,13 +1,3 @@
-<!-- Header Section -->
-<div style="max-width: 100%; margin: 0 auto; text-align: center;" align="center">
-  <img src="https://github.com/MARIYAPPANS/MARIYAPPANS/assets/114395182/7e4cbb7d-74d4-43ae-acc0-47c0f256a452" alt="Giphy" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-
-
-<!-- Profile Views Badge -->
-
-
 <!-- About Me Section -->
 <div align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
     <img src="https://www.svgrepo.com/show/132157/web-developer.svg" alt="Web Developer" height="60" width="60" style="margin-bottom: 10px;">
