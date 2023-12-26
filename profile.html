@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .profile-image {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .intro-section {
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .intro-section h2 {
+            color: #130d0d;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        .intro-section p {
+            color: #231e1e;
+            font-size: 18px;
+            line-height: 1.5;
+        }
+        .connect-section {
+            background-color: #1a1b27;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .connect-section h2 {
+            color: #ffffff;
+            margin-bottom: 20px;
+        }
+        .social-icons {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .social-icon {
+            display: inline-block;
+            border-radius: 50%;
+        }
+        .current-project-section {
+            background-color: #1a1b27;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .current-project-section h2 {
+            color: #ffffff;
+            margin-bottom: 20px;
+        }
+        .project-cards {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+        .project-card {
+            background-color: #292d3e;
+            padding: 15px;
+            border-radius: 10px;
+            width: 300px;
+        }
+        .project-card a {
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+        .project-card p {
+            color: #cccccc;
+            font-size: 14px;
+        }
+        .skills-section {
+            background-color: #1a1b27;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .skills-section h2 {
+            color: #ffffff;
+            margin-bottom: 20px;
+        }
+        .skill-category {
+            padding: 10px;
+            border-radius: 10px;
+        }
+        .skill-category h3 {
+            color: #ffffff;
+            margin-bottom: 10px;
+        }
+        .skills {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .language-stats-section {
+            background-color: #1a1b27;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .language-stats-section h2 {
+            color: #ebd9d9;
+            margin-bottom: 10px;
+        }
+        .language-stats-section p {
+            font-size: 16px;
+            color: #666666;
+        }
+        .top-languages {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .github-stats-section {
+            background-color: #1a1b27;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .github-stats-section h2 {
+            color: #ffffff;
+            margin-bottom: 10px;
+        }
+        .github-streak-section {
+            background-color: #1a1b27;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .github-streak-section h2 {
+            color: #ffffff;
+            margin-bottom: 10px;
+        }
+        .github-streak-section p {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #cccccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM2MDQ4MDAsIm5iZiI6MTcwMzYwNDUwMCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI2VDE1MjgyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkYWRmMTMwOWM2OTdhMWIxYjQ5MjExMzUxYTU5YmNmYTU2YzM4NTY5Y2U2ZjgxYjE0Yzc5MDI3ZWVjNzc0MjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._TNWvguYDFZiiY2gzwR9vMcE44h4ksLwbhIek1Decec" alt="Giphy" class="profile-image">
+        <div class="intro-section">
+            <h2>Hello, I'm Mariyappan!</h2>
+            <p>I'm a Fullstack developer using Django.</p>
+        </div>
+        <div class="connect-section">
+            <h2>Let's Connect</h2>
+            <div class="social-icons">
+                <a href="https://www.linkedin.com/in/mariyappan-s/" target="_blank" class="social-icon">
+                    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="50" width="50">
+                </a>
+                <a href="mailto:mariyappanyogeshwaran@gmail.com" target="_blank"
+            style="display: inline-block; border-radius: 50%;">
+            <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Gmail" height="50" width="50">
+        </a>
+        <a href="https://twitter.com/" target="_blank" style="display: inline-block; border-radius: 50%;">
+            <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" height="50" width="50">
+        </a>
+        <a href="https://www.codechef.com/users/mariyappan" target="_blank" style="display: inline-block; border-radius: 50%;">
+            <img src="https://img.icons8.com/?size=1x&id=GkF-CAy7S8GY&format=png" alt="CodeChef" height="50" width="50"
+                style="fill: #1a1b27;">
+        </a>
+  
+        <div class="skills-section">
+            <h2>Languages</h2>
+             <img src="https://skillicons.dev/icons?i=c,cpp,java,python,css,html,js,php&perline=3" >
+        </div>
+         <div class="Libraries and Tools:">
+            <h2>Languages</h2>
+             <img src="https://skillicons.dev/icons?i=vscode,vercel,sqlite,replit,postgres,mysql,github,firebase,django,bootstrap,androidstudio&perline=3" >
+        </div>
+        
+        <div class="language-stats-section">
+            <h2>Top Languages</h2>
+            <p>Languages I'm proficient in:</p>
+              <div style="display: flex; justify-content: center; align-items: center;">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariyappans&layout=compact&langs_count=6&theme=radical"
+                        alt="Top Languages" style="max-width: 100%;">
+                </div>
+            </div>
+        <div class="github-stats-section">
+            <h2>GitHub Stats</h2>
+            <img src="https://github-readme-stats.vercel.app/api?username=mariyappans&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;">
+        </div>
+        <div class="github-streak-section">
+            <h2>GitHub Streak</h2>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyappans&theme=highcontrast" alt="GitHub Streak Stats">
+            <p>Keep up the great work!</p>
+        </div>
+    </div>
+</body>
+</html>
