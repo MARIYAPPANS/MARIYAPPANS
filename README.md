@@ -1,1 +1,1 @@
-[View My Profile](profile.html)
+profile.html
