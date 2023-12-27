@@ -16,6 +16,8 @@
 # GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=mariyappans&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;">
 
+# GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyappans&theme=highcontrast" alt="GitHub Streak Stats">
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MARIYAPPANS&theme=nord&no-frame=false&no-bg=false&margin-w=4)
