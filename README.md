@@ -26,7 +26,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MARIYAPPANS&limit=5&theme=nord&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=MARIYAPPANS&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MARIYAPPANS&icon=6&color=5)](https://visitcount.itsvg.in)
