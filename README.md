@@ -23,7 +23,7 @@
 # Languages:
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,css,html,js,php&perline=8" >
 
-#Tools and Libraries:
+# Tools and Libraries:
 <img src="https://skillicons.dev/icons?i=vscode,vercel,sqlite,replit,postgres,mysql,github,firebase,django,bootstrap,androidstudio&perline=6" >
 
 
