@@ -2,7 +2,6 @@
 
 ![264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863](https://github.com/MARIYAPPANS/MARIYAPPANS/assets/114395182/cb6d019f-f365-4dda-b436-1cb7e0081d7b)
 
-</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariyappan-s) 
 
