@@ -25,10 +25,5 @@
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-###  Top Contributed Repo
-![](https://github-profile-trophy.vercel.app/?username=MARIYAPPANS&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=MARIYAPPANS&icon=6&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
