@@ -3,22 +3,8 @@
 ![264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863](https://github.com/MARIYAPPANS/MARIYAPPANS/assets/114395182/cb6d019f-f365-4dda-b436-1cb7e0081d7b)
 
 ## Let's Connect:
- <div class="social-icons">
-                <a href="https://www.linkedin.com/in/mariyappan-s/" target="_blank" class="social-icon">
-                    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="50" width="50">
-                </a>
-                <a href="mailto:mariyappanyogeshwaran@gmail.com" target="_blank"
-            style="display: inline-block; border-radius: 50%;">
-            <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Gmail" height="50" width="50">
-               </a>
-        <a href="https://twitter.com/" target="_blank" style="display: inline-block; border-radius: 50%;">
-            <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" height="50" width="50">
-        </a>
-        <a href="https://www.codechef.com/users/mariyappan" target="_blank" style="display: inline-block; border-radius: 50%;">
-            <img src="https://img.icons8.com/?size=1x&id=GkF-CAy7S8GY&format=png" alt="CodeChef" height="50" width="50"
-                style="fill: #1a1b27;">
-        </a>
-        </div>
+<img src="https://skillicons.dev/icons?i=linkedin,twitter,instagram&perline=3" >
+
 
 # Languages:
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,css,html,js,php&perline=8" >
