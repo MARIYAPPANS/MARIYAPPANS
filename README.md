@@ -21,7 +21,8 @@
         </div>
 
 # Languages:
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,css,html,js,php&perline=3" >
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,css,html,js,php&perline=8" >
+
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MARIYAPPANS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MARIYAPPANS&theme=dark&hide_border=false)<br/>
