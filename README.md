@@ -14,9 +14,14 @@
 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MARIYAPPANS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![](https://github-readme-stats.vercel.app/api?username=MARIYAPPANS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MARIYAPPANS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MARIYAPPANS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MARIYAPPANS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github-stats-alpha.vercel.app/api?username={MARIYAPPANS}&cc=000&tc=fff&ic=fff&bc=000
+
+Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color)
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MARIYAPPANS&theme=nord&no-frame=false&no-bg=false&margin-w=4)
