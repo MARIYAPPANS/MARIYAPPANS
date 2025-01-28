@@ -1,29 +1,21 @@
-<div style="max-width: 100%; margin: 0 auto; text-align: center;" align="center">
 
-![264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863](https://github.com/MARIYAPPANS/MARIYAPPANS/assets/114395182/cb6d019f-f365-4dda-b436-1cb7e0081d7b)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MARIYAPPANS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MARIYAPPANS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MARIYAPPANS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Let's Connect:
-<img src="https://skillicons.dev/icons?i=linkedin,twitter,instagram&perline=3" >
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MARIYAPPANS&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-# Languages:
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,css,html,js,php&perline=8" >
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MARIYAPPANS&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-# Tools and Libraries:
-<img src="https://skillicons.dev/icons?i=vscode,vercel,sqlite,replit,postgres,mysql,github,firebase,django,bootstrap,androidstudio&perline=6" >
-
-
-# GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=mariyappans&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;">
-
-# GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariyappans&theme=highcontrast" alt="GitHub Streak Stats">
-
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MARIYAPPANS&theme=nord&no-frame=false&no-bg=false&margin-w=4)
-
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+---
+[![](https://visitcount.itsvg.in/api?id=MARIYAPPANS&icon=9&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
